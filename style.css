@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@500&display=swap');
+body{
+    background-color: peachpuff;
+    font-family: 'Sansita Swashed', cursive;
+}
+h2{
+   color: brown;
+   text-decoration: underline; 
+}
+button{
+    font-size: 120%;
+    background-color: brown;
+    color: white;
+    font-family: 'Sansita Swashed', cursive;
+}
